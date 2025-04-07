@@ -68,7 +68,7 @@ python3 capture_pairs_4.py
 или просто:
 
 ```bash
-python `capture_pairs_4.py
+python capture_pairs_4.py
 ```
 ## Как пользоваться
 На экране Mac по очереди будут открываться изображения из папки original_photos/.
